@@ -1,7 +1,7 @@
 <?php include "connection.php"; ?>
 <html>
 <head>
-<title>Lembaga Pengembangan PESPARAWI Nasional (LPPN)</title>
+<title>Anggota Kelompok Layanan Web</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -19,19 +19,26 @@
     <td width="170" height="435" valign="top"><?php include "leftmenu.php"; ?></td>
     <td width="468" align="center" valign="top" background="images/bg_center.gif"><table width="95%"  border="0" cellpadding="0" cellspacing="0" class="mini-font">
         <tr>
-          <td background="images/bg_header.gif" height="39" colspan="2" valign="top"><h3>CONTACT US </h3></td>
+          <td height="39" colspan="2" valign="top"><h3>ABOUT US </h3></td>
         </tr>
         <tr>
           <td width="6%" height="69" align="center" valign="top">&#8226;</td>
-          <td width="94%" valign="top">Jl. Lapangan Banteng Barat No. 3-4<br>
-            Jakarta Pusat 10710<br>
-            Telp. (021) 3811654, 3811779 Ext. 262 </td>
+          <td width="94%" valign="top">117006003<br>
+            Denni Hadikusumo</td>
         </tr>
         <tr>
           <td width="6%" align="center" valign="top">&#8226;</td>
-          <td width="94%" valign="top">Jl. Paus No.10, Kel. Rawamangun Kec. Pulogadung <br>
-            Jakarta Timur 13220<br>
-          Telp. (021) 47862645 </td>
+          <td width="94%" valign="top">117006027 <br>
+            Bintang Anugrahing Widhi</td>
+        <tr>
+          <td width="6%" height="69" align="center" valign="top">&#8226;</td>
+          <td width="94%" valign="top">117006038<br>
+            Muhammad Rauffan</td>
+        </tr>
+        <tr>
+          <td width="6%" height="69" align="center" valign="top">&#8226;</td>
+          <td width="94%" valign="top">117006047<br>
+            Gallih fadl-luloh</td>
         </tr>
     </table></td>
     <td width="160" valign="top"><?php include "rightmenu.php"; ?></td>
